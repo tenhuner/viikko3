@@ -1,3 +1,6 @@
+package main;
+
+
 public class Animal { //definition of the Animal class
     private String species; //Defines a variable for internal use
     private String name; //Defines a variable for internal use

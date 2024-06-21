@@ -1,3 +1,6 @@
+package main;
+
+
 import java.util.ArrayList; //Import brings class from standard library.
 
 public class Zoo { //definition of the Znimal class
